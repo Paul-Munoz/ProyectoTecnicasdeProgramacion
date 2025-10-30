@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Sistema de Gestión de Alimentos 
 
 ## Descripción del Proyecto
@@ -209,3 +210,7 @@ Para soporte técnico o consultas sobre el sistema, contactar al equipo de desar
 ## Licencia
 
 Este proyecto es desarrollado como trabajo práctico académico para el IFTS 24.
+=======
+# ProyectoTecnicasdeProgramacion
+Aplicación de gestión de alimentos creada como proyecto académico. Incluye registro, búsqueda y control de productos.
+>>>>>>> d45cc7a1944843cd2110b2ba944c380722410bbd
